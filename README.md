@@ -41,4 +41,4 @@ El objetivo de la página es dar a conocer el refugio, mostrar los animales disp
 
 ## Autor
 
-Marcelo Yrala — Trabajo Final, Diseño Web CFP20.
+Marcelo Yrala — Pre Entrega - Talento Tech Front End.
