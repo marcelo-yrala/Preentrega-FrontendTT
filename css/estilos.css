@@ -35,8 +35,10 @@ a{
 /* HEADER */
 header{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    gap: 1rem;
     background-color: #2C3E50;
     padding: 1rem;
 }
@@ -60,6 +62,8 @@ header img {
 
 .navHeader{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
     gap: 1.5rem;
 }
@@ -166,9 +170,10 @@ aside img {
 
 .container_flex {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 2rem;
     justify-content: space-between;
+    align-items: flex-start;
     margin: 0 auto;
     width: 98%;
     background-color: #FFF;
@@ -178,9 +183,10 @@ aside img {
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
-   width: 80rem;
-   background-color: #fff;
-   
+    justify-content: center;
+    flex: 1 1 60rem;
+    min-width: 0;
+    background-color: #fff;
 }
 
 /* ARTICLE */
@@ -214,6 +220,8 @@ article h2{
 
 article img {
     width: 300px;
+    max-width: 100%;
+    height: auto;
     border-radius: .5rem;
 }
 
