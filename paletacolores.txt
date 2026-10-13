@@ -1,0 +1,14 @@
+Paleta de colores
+
+Footer y Header:
+Color de fondo #2C3E50
+textos #ECF0F1
+fuente: "Outfit"
+https://fonts.google.com/specimen/Outfit
+
+
+Body:
+Color de Fondo: #F5F5F5
+textos: #333
+fuente: "Sour Gummy"
+https://fonts.google.com/specimen/Sour+Gummy
